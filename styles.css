@@ -163,13 +163,18 @@ html {
   margin: 1em 0;
   padding: 1em 1em;
   width: 100%;
-}
-
-.btn:hover {
-  background: hsl(234, 85%, 45%);     
-}
-
-.btn:active{
   outline: none;
 }
 
+.btn:hover {
+  background: hsl(234, 85%, 45%);
+}
+
+.btn:focus {
+  border: 1px solid #000;
+}
+
+.btn:active {
+  border: none;
+  outline: none;
+}
