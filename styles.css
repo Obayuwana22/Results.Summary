@@ -166,6 +166,10 @@ html {
 }
 
 .btn:hover {
-  background: hsl(234, 85%, 45%);
+  background: hsl(234, 85%, 45%);     
+}
+
+.btn:active{
+  outline: none;
 }
 
