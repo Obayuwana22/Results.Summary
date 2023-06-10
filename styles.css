@@ -38,11 +38,10 @@ html {
   .container {
     width: 1440px;
     margin: 0;
-    height: 100vh;
     display: flex;
-    flex-direction: column;
     justify-content: center;
     align-items: center;
+    height: 100vh;
   }
   .summary-content {
     display: flex;
