@@ -37,10 +37,14 @@ html {
 @media (min-width: 550px) {
   .container {
     width: 1440px;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
   .summary-content {
     display: flex;
-    width: 40%;
+    width: 50%;
     margin: 10em auto;
     border-radius: 3em;
     color: var(--clr-neutral-2);
@@ -48,13 +52,13 @@ html {
   }
 
   .box-one {
-    width: 50%;
+    width: 60%;
     border-radius: 3em;
-    padding: 4em 2em 0;
+    padding: 4em 6em 0;
   }
 
   .summary-section {
-    width: 50%;
+    width: 60%;
     margin-bottom: 2em;
     padding: 1em 10em;
   }
