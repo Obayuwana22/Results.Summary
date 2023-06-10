@@ -37,15 +37,16 @@ html {
 @media (min-width: 550px) {
   .container {
     width: 1440px;
+    margin: 0;
     height: 100vh;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
   }
   .summary-content {
     display: flex;
     width: 50%;
-    margin: 10em auto;
     border-radius: 3em;
     color: var(--clr-neutral-2);
     box-shadow: 15px 15px 20px;
