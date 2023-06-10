@@ -37,7 +37,8 @@ html {
 @media (min-width: 550px) {
   .container {
     width: 1440px;
-    margin: 50%;
+    margin: 0;
+    height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
