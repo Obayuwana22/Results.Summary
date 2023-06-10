@@ -37,8 +37,7 @@ html {
 @media (min-width: 550px) {
   .container {
     width: 1440px;
-    margin: 0;
-    height: 100vh;
+    margin: 50%;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -103,7 +102,6 @@ html {
 .summary-section {
   margin-top: 2em;
   text-align: left;
-  align-items: center;
   padding: 0 1.5em;
   font-size: 15px;
   font-weight: 700;
