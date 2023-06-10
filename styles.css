@@ -169,6 +169,3 @@ html {
   background: hsl(234, 85%, 45%);
 }
 
-.btn:focus {
-  outline: 3px solid #000;
-}
