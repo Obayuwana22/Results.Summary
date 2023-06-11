@@ -21,14 +21,13 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  min-height: 100vh;
 }
 
 .container {
   text-align: center;
   width: 375px;
   border-radius: 3em 3em 0 0;
-  
 }
 
 .box-one {
