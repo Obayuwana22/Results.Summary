@@ -26,7 +26,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Screenshot 2023-06-10 at 02-18-12 Results summary component](https://github.com/Obayuwana22/Results.Summary/assets/85890626/36c146a2-ce42-4c7e-9028-f1402f3386d1)
+![Screenshot 2023-06-10 at 02-17-43 Results summary component](https://github.com/Obayuwana22/Results.Summary/assets/85890626/df99abf9-75b4-4d15-9fb7-bde7bcceb7b9)
 
 
 ### Links
@@ -58,7 +59,6 @@ To see how you can add code snippets, see below:
   background: linear-gradient(hsla(256, 72%, 46%, 1), hsla(241, 72%, 46%, 0))
 }
 ```
-
 
 ### Continued development
 
