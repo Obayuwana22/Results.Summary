@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot 2023-06-10 at 02-18-12 Results summary component](https://github.com/Obayuwana22/Results.Summary/assets/85890626/36c146a2-ce42-4c7e-9028-f1402f3386d1)
-![Screenshot 2023-06-10 at 02-17-43 Results summary component](https://github.com/Obayuwana22/Results.Summary/assets/85890626/df99abf9-75b4-4d15-9fb7-bde7bcceb7b9)
+![Screen Shot 2023-06-12 at 12 56 05-fullpage](https://github.com/Obayuwana22/Results.Summary/assets/85890626/ef416cd3-39cf-488a-88be-1edd264da231)
+![Screen Shot 2023-06-12 at 12 47 17-fullpage](https://github.com/Obayuwana22/Results.Summary/assets/85890626/e995bd3b-a954-4849-981f-9ed1ea4d02ba)
 
 
 ### Links
